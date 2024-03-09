@@ -2,4 +2,4 @@
 echo "this is github repo"
 number=$(($num1 + $num2))
 echo $number
-echo "this is complete"
+echo "This is a testing for github hook"
